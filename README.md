@@ -1,5 +1,4 @@
-# dbdemo
-database connectivity with go
+# dbdemo (database connectivity with go)
 
 func main() {
   psqlInfo := fmt.Sprintf("host=%s port=%d user=%s "+
